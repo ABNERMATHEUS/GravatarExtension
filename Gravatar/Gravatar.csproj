@@ -10,8 +10,8 @@
     <Company>abner_dev</Company>
     <PackageDescription>Extensions for Gravatar</PackageDescription>
     <Description>Extensions for Gravatar</Description>
-    <RepositoryUrl>https://github.com/abnermatheus/GravatarExtension</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/abnermatheus/GravatarExtension</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ABNERMATHEUS/GravatarExtension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ABNERMATHEUS/GravatarExtension</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Gravatar</PackageTags>
     <Title>Gravatar Extensions</Title>
