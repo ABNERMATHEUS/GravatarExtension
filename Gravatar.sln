@@ -3,9 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravatar", "Gravatar\Gravatar.csproj", "{8D8B5BD2-81F3-465B-BDFB-08F6BAECD481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gravatar", "Gravatar\Gravatar.csproj", "{8D8B5BD2-81F3-465B-BDFB-08F6BAECD481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravatar.Tests", "Gravatar.Tests\Gravatar.Tests.csproj", "{8D31CF65-4F88-4547-8684-5BC0A7EBF4B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gravatar.Tests", "Gravatar.Tests\Gravatar.Tests.csproj", "{8D31CF65-4F88-4547-8684-5BC0A7EBF4B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{C50005C4-373A-44C7-A6E9-E7EC31D0E52A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{76A6CAF0-5261-41BF-80EE-949403E8234B}"
+	ProjectSection(SolutionItems) = preProject
+		main.yml = main.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +31,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{76A6CAF0-5261-41BF-80EE-949403E8234B} = {C50005C4-373A-44C7-A6E9-E7EC31D0E52A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {30223011-D2DF-4D4C-91D8-6273E9F3F931}
