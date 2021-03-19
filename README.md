@@ -1,5 +1,5 @@
-# Gravatar
+# GravatarExtension
 
 | Package |  Version | Downloads |
 | ------- | ----- | ----- |
-| `Gravatar` | [![NuGet](https://img.shields.io/nuget/v/Gravatar.svg)](https://nuget.org/packages/Gravatar) | [![Nuget](https://img.shields.io/nuget/dt/Gravatar.svg)](https://nuget.org/packages/Gravatar) |
+| `Gravatar` | [![NuGet](https://img.shields.io/nuget/v/GravatarExtension.svg)](https://nuget.org/packages/GravatarExtension) | [![Nuget](https://img.shields.io/nuget/dt/GravatarExtension.svg)](https://nuget.org/packages/Gravatar) |
